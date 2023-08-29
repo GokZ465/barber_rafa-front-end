@@ -80,7 +80,7 @@ $ npm i
 ### Create an environment variables file in the project root (.env) and configure a variable with the name 'REACT_APP_BACK_URL' that contains the url where the backend will be running, Example:
 
 ```bash
-REACT_APP_BACK_URL=http:localhost:5000/
+REACT_APP_BACK_URL=http:localhost:8080/
 REACT_APP_PHONE_NUMBER=98747-9047
 REACT_APP_INSTAGRAM_LINK=https://www.instagram.com/barberafamacedo/
 REACT_APP_FACEBOOK_LINK=https://facebook.com/BarberRafaMacedo/?ref=bookmarks
